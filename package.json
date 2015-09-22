@@ -1,0 +1,25 @@
+{
+  "name": "simple-blog",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Simple blog with: * Mongoose * Node.js * MongoDB * Jade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadHod/simple-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HadHod/simple-blog/issues"
+  },
+  "homepage": "https://github.com/HadHod/simple-blog#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.1.8"
+  }
+}
